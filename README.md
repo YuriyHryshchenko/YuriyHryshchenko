@@ -12,11 +12,11 @@
 
 ###
 
-<p align="center">My Stack:</p>
+<p align="left">I code with:</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -37,9 +37,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/YuriyHryshchenko/YuriyHryshchenko/output/snake.svg" alt="Snake animation" />
 
 ###
